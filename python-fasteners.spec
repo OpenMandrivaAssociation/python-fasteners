@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        0.15
-Release:        1
+Release:        2
 Group:          Development/Python
 Summary:        A python package that provides useful locks
 
@@ -35,4 +35,4 @@ rm -rf %{pypi_name}.egg-info
 %files
 %doc README.rst
 %{python_sitelib}/%{pypi_name}/
-%{python_sitelib}/%{pypi_name}-%{version}-py?.?.egg-info/
+%{python_sitelib}/%{pypi_name}-%{version}-py*.*.egg-info/
