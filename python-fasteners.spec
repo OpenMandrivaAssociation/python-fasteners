@@ -1,8 +1,8 @@
 %global pypi_name fasteners
 
 Name:           python-%{pypi_name}
-Version:        0.19
-Release:        2
+Version:        0.20
+Release:        1
 Group:          Development/Python
 Summary:        A python package that provides useful locks
 
