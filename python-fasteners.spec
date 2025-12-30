@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        0.20
-Release:        1
+Release:        2
 Group:          Development/Python
 Summary:        A python package that provides useful locks
 
